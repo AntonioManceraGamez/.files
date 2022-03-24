@@ -4,10 +4,10 @@ dunst
 fetch 
 EOS-greeter.conf 
 EOS-initial-wallpaper.I3 
-eos-update-notifier.fist_init 
+eos-update-notifier.first_init 
 neofetch 
 nitrogen 
-pavucontrol.conf 
+pavucontrol.ini
 spotifyd 
 systemd 
 Thunar 
