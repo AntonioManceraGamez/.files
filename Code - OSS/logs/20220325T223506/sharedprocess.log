@@ -1,0 +1,17 @@
+[2022-03-25 22:35:12.729] [sharedprocess] [info] Starting worker process with pid 54260 (type: fileWatcher, window: 1).
+[2022-03-25 22:35:44.734] [sharedprocess] [info] Getting Manifest... jdinhlife.gruvbox
+[2022-03-25 22:35:44.848] [sharedprocess] [info] Installing extension: jdinhlife.gruvbox
+[2022-03-25 22:35:46.259] [sharedprocess] [info] Downloaded extension: jdinhlife.gruvbox /home/antonio/.config/Code - OSS/CachedExtensionVSIXs/jdinhlife.gruvbox-1.5.1
+[2022-03-25 22:35:46.425] [sharedprocess] [info] Extracted extension to /home/antonio/.vscode-oss/extensions/.d36f2ab1-7660-4398-9e8b-491b3f96b10c: jdinhlife.gruvbox
+[2022-03-25 22:35:46.432] [sharedprocess] [info] Renamed to /home/antonio/.vscode-oss/extensions/jdinhlife.gruvbox-1.5.1
+[2022-03-25 22:35:46.435] [sharedprocess] [info] Extracting completed. jdinhlife.gruvbox
+[2022-03-25 22:35:46.439] [sharedprocess] [info] Extension installed successfully: jdinhlife.gruvbox
+[2022-03-25 22:36:12.072] [sharedprocess] [info] Getting Manifest... asvetliakov.vscode-neovim
+[2022-03-25 22:36:12.153] [sharedprocess] [info] Installing extension: asvetliakov.vscode-neovim
+[2022-03-25 22:36:13.665] [sharedprocess] [info] Downloaded extension: asvetliakov.vscode-neovim /home/antonio/.config/Code - OSS/CachedExtensionVSIXs/asvetliakov.vscode-neovim-0.0.83
+[2022-03-25 22:36:13.834] [sharedprocess] [info] Extracted extension to /home/antonio/.vscode-oss/extensions/.b5a17d49-170f-4dc3-8330-2d00fea5240f: asvetliakov.vscode-neovim
+[2022-03-25 22:36:13.845] [sharedprocess] [info] Renamed to /home/antonio/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.83
+[2022-03-25 22:36:13.848] [sharedprocess] [info] Extracting completed. asvetliakov.vscode-neovim
+[2022-03-25 22:36:13.853] [sharedprocess] [info] Extension installed successfully: asvetliakov.vscode-neovim
+[2022-03-25 22:37:10.793] [sharedprocess] [info] Worker process with pid 54260 terminated normally (type: fileWatcher, window: 1).
+[2022-03-25 22:37:13.375] [sharedprocess] [info] Starting worker process with pid 54406 (type: fileWatcher, window: 1).

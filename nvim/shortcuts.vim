@@ -16,3 +16,6 @@ nmap <leader>fg :Telescope live_grep<cr>
 nmap <leader>fb :Telescope buffers<cr>
 nmap <leader>fh :Telescope help_tags<cr>
 nmap <leader>¡ :noh<cr>
+nmap Ñ 10j
+nmap ; 10k
+imap NN <C-y>,

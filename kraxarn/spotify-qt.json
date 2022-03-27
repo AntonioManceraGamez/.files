@@ -1,0 +1,53 @@
+{
+    "Account": {
+        "access_token": "BQBOEJBBwcIBZCxFZho9RXICoB1k2DDOatBI8x5asvcU2HblmG5WjAfyMH3VnLeGd4cnBudPLTpYR8Pbijwqgf8Eher6n_Obu8YiI7ieQrTUMAqraBbA7T1Kg8EvNNcXUjH9Rs6bLozn3AmZ7iECnhzp2rU6R9lup33uZVGcBBMMngnLUtJHX1qD42C_TZhFtz8i0lpFZrYPY3CvU8SYcETWdAWQ7kWLyl6Jb8BrcbIxd4WElkTOadMs3By_VNmXE2Q1KwF2lGdF1YYK0M7inIboq8Ma9Gki",
+        "client_id": "e2e3b4f27277448a8673c602835005ee",
+        "client_secret": "75784260988245a3a695742c283ba626",
+        "last_refresh": 1648317282,
+        "refresh_token": "AQCCnW-ONsc0I56B_0PMoBO5QTMaPP6-RjIed4yf4WpXLo49livHgDZyi12RU-E0bhfO_nnylIHIhX387Jf0qPVqSTJbX5KzN3fIsOrBkKZepNlzFku0aambc8duzoknT_Q"
+    },
+    "General": {
+        "close_to_tray": false,
+        "custom_playlist_order": [],
+        "expand_album_cover ": false,
+        "fallback_icons": false,
+        "fixed_width_time": true,
+        "hidden_song_headers": [],
+        "last_device": "",
+        "last_playlist": "37i9dQZF1EUMDoJuT8yJsl",
+        "last_version": "v3.8",
+        "last_volume": 17,
+        "media_controller": false,
+        "notify_track_change": false,
+        "playlist_order": 0,
+        "refresh_interval": 3,
+        "relative_added": true,
+        "show_changelog": true,
+        "song_header_sort_by": -1,
+        "style": "Fusion",
+        "style_palette": 2,
+        "track_list_resize_mode": 0,
+        "track_numbers": 1,
+        "tray_album_art": false,
+        "tray_icon": true,
+        "tray_light_icon": false
+    },
+    "Qt": {
+        "custom_font_name": "",
+        "custom_font_size": 0,
+        "mirror_title_bar": false,
+        "system_title_bar": false
+    },
+    "Spotify": {
+        "always_start": true,
+        "backend": "",
+        "bitrate": 320,
+        "disable_discovery": false,
+        "global_config": false,
+        "keyring_password": false,
+        "max_queue": 500,
+        "path": "/usr/bin/spotifyd",
+        "start_client": false,
+        "username": ""
+    }
+}

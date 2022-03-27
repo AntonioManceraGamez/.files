@@ -1,0 +1,8 @@
+[2022-03-25 22:39:22.787] [main] [info] window#load: attempt to load window (id: 1)
+[2022-03-25 22:39:22.828] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-03-25 22:39:23.002] [main] [info] ExtensionHostStarterWorker created
+[2022-03-25 22:39:25.672] [main] [info] window#load: window reported ready (id: 1)
+[2022-03-25 22:39:26.347] [main] [info] Starting extension host with pid 55074 (fork() took 42 ms).
+[2022-03-25 22:39:26.347] [main] [info] ExtensionHostStarterWorker.start() took 73 ms.
+[2022-03-25 22:42:12.324] [main] [info] Waiting for extension host with pid 55074 to exit.
+[2022-03-25 22:42:12.342] [main] [info] Extension host with pid 55074 exited with code: 0, signal: null.

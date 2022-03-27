@@ -1,0 +1,5 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark Medium",
+    "vscode-neovim.neovimInitVimPaths.linux": "/home/antonio/.config/nvim/init.vim",
+    "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim"
+}

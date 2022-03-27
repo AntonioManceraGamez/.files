@@ -24,3 +24,6 @@ colors:
     cyan:    '0x89b482'
     white:   '0xdfbf8e'
 opacity: 1
+
+env:
+    WINIT_X11_SCALE_FACTOR: "1"

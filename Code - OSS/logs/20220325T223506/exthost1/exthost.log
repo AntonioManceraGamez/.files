@@ -1,0 +1,29 @@
+[2022-03-25 22:35:11.768] [exthost] [info] Extension host with pid 54225 started
+[2022-03-25 22:35:12.437] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-25 22:35:12.478] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-25 22:35:12.508] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-25 22:35:12.604] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-25 22:35:12.914] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-25 22:35:13.138] [exthost] [info] Eager extensions activated
+[2022-03-25 22:35:13.177] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-25 22:35:13.318] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-25 22:35:51.190] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-25 22:35:51.205] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-25 22:35:51.341] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-25 22:36:14.075] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: false, activationEvent: '*'
+[2022-03-25 22:37:10.742] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-25 22:37:10.757] [exthost] [info] Extension host with pid 54225 exiting with code 0
+[2022-03-25 22:37:15.078] [exthost] [info] Extension host with pid 54405 started
+[2022-03-25 22:37:15.078] [exthost] [info] Skipping acquiring lock for /home/antonio/.config/Code - OSS/User/workspaceStorage/698aa1f7f321f21a90926ed1b0ce574a.
+[2022-03-25 22:37:15.498] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-25 22:37:15.505] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-25 22:37:15.513] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-25 22:37:15.521] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-03-25 22:37:15.792] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-25 22:37:15.893] [exthost] [info] Eager extensions activated
+[2022-03-25 22:37:15.913] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-25 22:37:15.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-25 22:37:16.233] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-03-25 22:37:16.256] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: false, activationEvent: '*'
+[2022-03-25 22:37:41.598] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-25 22:37:41.639] [exthost] [info] Extension host with pid 54405 exiting with code 0
