@@ -6,3 +6,4 @@ source ~/.config/nvim/nt.vim
 source ~/.config/nvim/at.vim
 source ~/.config/nvim/airline.vim
 source ~/.config/nvim/coc.vim
+" source ~/.config/nvim/colors/leaf.vim

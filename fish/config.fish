@@ -3,6 +3,11 @@ if status is-interactive
 end
 set fish_greeting
 
+
+# Aliases
+alias ls='ls -A --color=always'
+
+
 colorscript -r
 
 starship init fish | source

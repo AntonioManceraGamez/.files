@@ -1,8 +1,9 @@
-# This file is a modified version based on default i3-config-wizard config
-# source is available here:
+# This file is a modified version based on default i3-config-wizard
+# config source is available here:
 # https://raw.githubusercontent.com/endeavouros-team/endeavouros-i3wm-setup/master/.config/i3/config
 # Maintainer: joekamprad [joekamprad@endeavouros.com]
 # https://endeavouros.com
+#
 # iconic font icon search: https://fontawesome.com/v4.7/cheatsheet/
 #
 # --> to update this run the following command (will backup existing setup file)
@@ -24,7 +25,7 @@
 font pango: Noto Sans Regular 10
 
 # set the mod key to the winkey:
-set $mod Mod1
+set $mod Mod4
 
 #####################
 # workspace layout: #

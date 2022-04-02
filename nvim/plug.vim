@@ -9,7 +9,6 @@ Plug 'preservim/nerdtree'
 Plug 'christoomey/vim-tmux-navigator'
 Plug 'alvan/vim-closetag'
 Plug 'jiangmiao/auto-pairs'
-Plug 'preservim/nerdcommenter'
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 Plug 'kyazdani42/nvim-web-devicons'
 Plug 'nvim-lua/popup.nvim'
@@ -22,6 +21,8 @@ Plug 'AndrewRadev/tagalong.vim'
 Plug 'tpope/vim-surround'
 Plug 'neoclide/coc.nvim'
 Plug 'mustache/vim-mustache-handlebars'
-
+Plug 'dag/vim-fish'
+Plug 'tpope/vim-commentary'
+Plug 'ajmwagar/vim-deus'
 
 call plug#end()
